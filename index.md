@@ -186,7 +186,7 @@ DIN|P2.0
 CS|P2.1
 CLK|P2.2
 
-![显示器实物](./picture/点阵屏连接图.jpg)![s6](./picture/点阵屏示例.png)
+![显示器实物](./picture/点阵屏连接图.png)![s6](./picture/点阵屏示例.png)
 
 #### （2）点阵屏检测
 
@@ -233,7 +233,7 @@ SCL|单片机P1.3
 SDA|单片机P1.4
 ADDR|面包板负极
 
-![s3](./picture/光敏连接图.jpg)
+![s3](./picture/光敏连接图.png)
 ![s4](./picture/光敏示例.png)
 
 #### （2）光敏模块检测
