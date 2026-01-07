@@ -233,9 +233,8 @@ SCL|单片机P1.3
 SDA|单片机P1.4
 ADDR|面包板负极
 
-![s3](./picture/光敏引脚1.jpg)
-![s4](./picture/光敏引脚2.png)
-![s5](./picture/光敏引脚3.jpg)
+![s3](./picture/光敏连接图.jpg)
+![s4](./picture/光敏示例.png)
 
 #### （2）光敏模块检测
 
