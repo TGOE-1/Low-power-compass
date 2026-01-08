@@ -234,7 +234,7 @@ SDA|单片机P1.4
 ADDR|面包板负极
 
 ![s3](./picture/光敏连接图.png)
-![s4](./picture/光敏示例.png)
+![s4](./picture/光敏示例.jpg)
 
 #### （2）光敏模块检测
 
