@@ -210,8 +210,9 @@ SDA|单片机P1.1
 
 
 ![s3](./picture/step3.jpg)
-![s4](./picture/step5.png)
 ![s5](./picture/step4.jpg)
+![s4](./picture/step5.png)
+
 
 #### （2）磁传感模块检测
 
