@@ -117,7 +117,7 @@ USB转TTL转换头是一个小巧的电子适配器，它能将电脑USB接口�
 
 同上，连接单片机的VCC引脚与电源区正极、单片机VSS引脚与电源区负极
 
-![s2-2](./picture/step2-2.jpg) ![s2-3](./picture/step2-3.png)
+![s2-2](./picture/step-2-2.jpg) ![s2-3](./picture/step2-3.png)
 
 晶振两个引脚没有方向区分，分别连接单片机的XTAL1、XTAL2引脚即可，此处无需使用杜邦线。以下是引脚连接表与实物示例图：
 
